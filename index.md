@@ -13,7 +13,7 @@ Syntax highlighted code block
 
 # Unnati's First CS 193 Homework
 
-# Header 1
+# Unnati's First CS 193 Homework
 ## Header 2
 ### Header 3
 
