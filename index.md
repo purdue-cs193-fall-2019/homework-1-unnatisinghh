@@ -13,12 +13,9 @@ Syntax highlighted code block
 
 # Unnati's First CS 193 Homework
 
-- I like the fact that there is a CS 193 Jams playlist! It makes me look forward to class every Tuesday.
-- I like the way Nicole and CJ teach.
-- I like the colorful powerpoints that are presented in class.
-
-1. Numbered
-2. Lists
+- **Reason 1** I like the fact that there is a CS 193 Jams playlist! It makes me look forward to class every Tuesday.
+- **Reason 2** I like the way Nicole and CJ teach.
+- **Reason 3** I like the colorful powerpoints that are presented in class.
 
 **Bold** and _Italic_ and `Code` text
 
